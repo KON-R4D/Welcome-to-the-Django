@@ -1,8 +1,8 @@
 # Django Local Library
 --------------------------------------------------------------------------------------------------------------------------------------------
-Tutorial "Local Library" website written in Django.
+Tutorial "WthD - Local Library Adaptation" web application written in Django.
 
-For detailed information about this project see the associated [MDN tutorial home page](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website).
+For detailed information about this project see the associated [Welcome-to-the-Django tutorial home page](https://conrad.cybergrains.com).
 
 ## Overview
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -37,3 +37,4 @@ To get this project up and running locally on your computer:
 1. Open a browser to `http://127.0.0.1:8000/admin/` to open the admin site
 1. Create a few test objects of each type.
 1. Open tab to `http://127.0.0.1:8000` to see the main site, with your new objects.
+
