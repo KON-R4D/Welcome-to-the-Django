@@ -1,4 +1,4 @@
-# Django Local Library
+# WTHD - Django Local Library
 --------------------------------------------------------------------------------------------------------------------------------------------
 Tutorial "WthD - Local Library Adaptation" web application written in Django.
 
