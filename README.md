@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------
 Tutorial "WthD - Local Library Adaptation" web application written in Django.
 
-For detailed information about this project see the associated [Welcome-to-the-Django tutorial home page](https://conrad.cybergrains.com).
+For detailed information about this project see the associated [Welcome-to-the-Django tutorial home page](https://w2td.cybergrains.com/).
 
 ## Overview
 --------------------------------------------------------------------------------------------------------------------------------------------
